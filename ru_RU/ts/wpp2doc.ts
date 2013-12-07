@@ -33,6 +33,7 @@
     </message>
     <message>
         <source>Slide %1 </source>
+        <translation type="unfinished">Слайд% ​​1</translation>
     </message>
     <message>
         <source>Start Conversion</source>
@@ -40,6 +41,7 @@
     </message>
     <message>
         <source>Still Need:</source>
+        <translation type="unfinished">Тем не менее нужно:</translation>
     </message>
     <message>
         <source>Notes Page:</source>
@@ -47,18 +49,22 @@
     </message>
     <message>
         <source>Second</source>
+        <translation type="unfinished">Второй</translation>
     </message>
     <message>
         <source>Ready to convert, please wait</source>
+        <translation type="unfinished">Готовы конвертировать, пожалуйста, подождите</translation>
     </message>
     <message>
         <source>Start converting</source>
+        <translation type="unfinished">Начало преобразования</translation>
     </message>
 </context>
 <context>
     <name>ProcessDialog</name>
     <message>
         <source>Cancel</source>
+        <translation type="unfinished">Отменить</translation>
     </message>
     <message>
         <source>Converted to the WPS Text document</source>
@@ -82,24 +88,30 @@
     </message>
     <message>
         <source>Ready to convert</source>
+        <translation type="unfinished">Готов для преобразования</translation>
     </message>
     <message>
         <source>Open File</source>
+        <translation type="unfinished">Открыть файл</translation>
     </message>
 </context>
 <context>
     <name>changeAsWpsDialog</name>
     <message>
         <source>1</source>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>2</source>
+        <translation type="unfinished">2</translation>
     </message>
     <message>
         <source>3</source>
+        <translation type="unfinished">3</translation>
     </message>
     <message>
         <source>4</source>
+        <translation type="unfinished">4</translation>
     </message>
     <message>
         <source>According to original layout(&amp;O)</source>
@@ -119,6 +131,7 @@
     </message>
     <message>
         <source>All(&amp;A)</source>
+        <translation type="unfinished">Все (и)</translation>
     </message>
     <message>
         <source>Below(&amp;B)</source>
@@ -166,6 +179,7 @@
     </message>
     <message>
         <source>Number slides in the document</source>
+        <translation type="unfinished">Количество слайдов в документе</translation>
     </message>
     <message>
         <source>Original Layout Conversion(&amp;O)</source>
@@ -177,6 +191,7 @@
     </message>
     <message>
         <source>Preview</source>
+        <translation type="unfinished">Предварительный просмотр</translation>
     </message>
     <message>
         <source>Remarks At The Bottom(&amp;B)</source>
@@ -263,6 +278,7 @@
     </message>
     <message>
         <source>The conversion is completed.</source>
+        <translation type="unfinished">Преобразование завершено.</translation>
     </message>
     <message>
         <source>Converting to Kingsoft Writer document encountered an error.</source>
@@ -273,6 +289,7 @@
     <name>kxwpptodocdlg</name>
     <message>
         <source>&quot;</source>
+        <translation type="unfinished">&quot;</translation>
     </message>
     <message>
         <source>Can Enter The 1-2 Integer</source>
@@ -320,6 +337,7 @@
     </message>
     <message>
         <source>The number must be 1, 2, 3, or 4.</source>
+        <translation type="unfinished">Число должно быть 1, 2, 3 или 4.</translation>
     </message>
     <message>
         <source>This is a valid number. Please input slide number or slide range.  For example, 1,3,5-9.</source>
@@ -327,9 +345,11 @@
     </message>
     <message>
         <source>Kingsoft Presentation</source>
+        <translation type="unfinished">Kingsoft Presentation</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
+        <translation type="unfinished">Число должно быть 1 или 2.</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -337,9 +357,11 @@
     </message>
     <message>
         <source>The file &quot;</source>
+        <translation type="unfinished">Файл &quot;</translation>
     </message>
     <message>
         <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
+        <translation type="unfinished">уже существует. Вы не можете сохранить файл с тем же именем, что и другой открытый файл. Выберите другое имя, или закрыть открытый файл перед сохранением.</translation>
     </message>
 </context>
 </TS>
