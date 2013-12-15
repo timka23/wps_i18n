@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>CEtTableStyle</name>
     <message>
@@ -44,11 +44,11 @@
         <translation>стиль насыщенного цвета 2</translation>
     </message>
     <message>
-        <source>deep color style 2-emphaisze 3/emphasize 4</source>
+        <source>deep color style 2-emphasize 3/emphasize 4</source>
         <translation>стиль насыщенного цвета 2 - подчеркивает 3/подчеркивать 4</translation>
     </message>
     <message>
-        <source>deep color style 2-emphasize 1/empahsize 2</source>
+        <source>deep color style 2-emphasize 1/emphasize 2</source>
         <translation>стиль насыщенного цвета 2 - подчеркивает 1/подчеркивать 2</translation>
     </message>
     <message>
@@ -68,8 +68,8 @@
         <translation>смягчите цветной стиль</translation>
     </message>
     <message>
-        <source>styless,no grid</source>
-        <translation>лишенный стиля, никакая сетка</translation>
+        <source>styleless, no grid</source>
+        <translation>лишенный стиля, без сетки</translation>
     </message>
     <message>
         <source>stylish,gridded</source>
@@ -78,18 +78,6 @@
     <message>
         <source>theme style</source>
         <translation>стиль</translation>
-    </message>
-    <message>
-        <source>styleless, no grid</source>
-        <translation>лишенный стиля, без сетки</translation>
-    </message>
-    <message>
-        <source>deep color style 2-emphasize 1/emphasize 2</source>
-        <translation>стиль насыщенного цвета 2 - подчеркивает 1/подчеркивать 2</translation>
-    </message>
-    <message>
-        <source>deep color style 2-emphasize 3/emphasize 4</source>
-        <translation>стиль насыщенного цвета 2 - подчеркивает 3/подчеркивать 4</translation>
     </message>
 </context>
 <context>
@@ -124,18 +112,18 @@
     </message>
     <message>
         <source>deep color style</source>
-        <translation>Стиль насыщенного цвета</translation>
+        <translation>стиль насыщенного цвета</translation>
     </message>
     <message>
         <source>deep color style 2</source>
-        <translation>Стиль насыщенного цвета 2</translation>
+        <translation>стиль насыщенного цвета 2</translation>
     </message>
     <message>
-        <source>deep color style 2-emphaisze 3/emphasize 4</source>
+        <source>deep color style 2-emphasize 3/emphasize 4</source>
         <translation>стиль насыщенного цвета 2 - подчеркивает 3/подчеркивать 4</translation>
     </message>
     <message>
-        <source>deep color style 2-emphasize 1/empahsize 2</source>
+        <source>deep color style 2-emphasize 1/emphasize 2</source>
         <translation>стиль насыщенного цвета 2 - подчеркивает 1/подчеркивать 2</translation>
     </message>
     <message>
@@ -144,18 +132,18 @@
     </message>
     <message>
         <source>emphasize</source>
-        <translation>Подчеркивать</translation>
+        <translation>подчеркивать</translation>
     </message>
     <message>
         <source>light color style</source>
-        <translation>Легкий цветной стиль</translation>
+        <translation>легкий цветной стиль</translation>
     </message>
     <message>
         <source>moderate color style</source>
-        <translation>Умеренный цветовой стиль</translation>
+        <translation>смягчите цветной стиль</translation>
     </message>
     <message>
-        <source>styless,no grid</source>
+        <source>styleless, no grid</source>
         <translation>лишенный стиля, без сетки</translation>
     </message>
     <message>
@@ -165,18 +153,6 @@
     <message>
         <source>theme style</source>
         <translation>стиль</translation>
-    </message>
-    <message>
-        <source>styleless, no grid</source>
-        <translation>лишенный стиля, без сетки</translation>
-    </message>
-    <message>
-        <source>deep color style 2-emphasize 1/emphasize 2</source>
-        <translation>глубокий цвет стиль 2-подчеркнуть 1/подчеркнуть 2</translation>
-    </message>
-    <message>
-        <source>deep color style 2-emphasize 3/emphasize 4</source>
-        <translation>глубокий цвет стиль 2-подчеркнуть 3/подчеркнуть 4</translation>
     </message>
 </context>
 <context>
