@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>KApplication</name>
+    <message>
+        <source>Critical</source>
+        <translation>Критический</translation>
+    </message>
     <message>
         <source>Load ui xml file failed! for more information using KDebugConsole or read loggings.</source>
         <translation>Загрузить пользовательский интерфейс xml-файл не удалось. Для получения более подробной информации, пожалуйста, воспользуйтесь KDebugConsole или читать журналы.</translation>
@@ -26,11 +30,11 @@
         <translation>&amp;Фон</translation>
     </message>
     <message>
-        <source>&amp;Fill effects...</source>
+        <source>&amp;Fill Effects...</source>
         <translation>&amp;Заливки...</translation>
     </message>
     <message>
-        <source>&amp;More Color</source>
+        <source>&amp;More Colors</source>
         <translation>&amp;Больше цветов</translation>
     </message>
     <message>
@@ -42,16 +46,12 @@
         <translation>Автоматический</translation>
     </message>
     <message>
+        <source>Black,Brown,Olive Green,Dark Green,Dark Teal,Dark Blue,Indigo,Gray-80%,Dark Red,Orange,Dark Yellow,Green,Teal,Blue,Blue-Gray,Gray-50%,Red,Light Orange,Lime,Sea Green,Aqua,Light Blue,Violet,Gray-40%,Pink,Gold,Yellow,Bright Green,Turquoise,Sky Blue,Plum,Gray-25%,Rose,Tan,Light Yellow,Light Green,Light Turquoise,Pale Blue,Lavender,White</source>
+        <translation>Черный, коричневый, оливковый зеленый, темно-зеленый, темно-Тил, Темно-синий, индиго, серо-80%, темно-красный, оранжевый, темно-желтый, зеленый, чирок, синий, серо-голубой, серо-50%, красный, Светло-оранжевый, лайм, Sea Green, Aqua, голубой, фиолетовый, серый-40%, розовый, золотой, желтый, ярко-зеленый, бирюзовый, голубой, слива, серый-25%, Роуз, Тан, светло-желтый, светло-зеленый, светло- Бирюзовый, бледно-голубой, лаванда, белый</translation>
+    </message>
+    <message>
         <source>No Color</source>
         <translation>Без цвета</translation>
-    </message>
-    <message>
-        <source>&amp;More Colors</source>
-        <translation>&amp;Больше цветов</translation>
-    </message>
-    <message>
-        <source>&amp;Fill Effects...</source>
-        <translation>&amp;Заливки...</translation>
     </message>
     <message>
         <source>Black</source>
@@ -228,16 +228,16 @@
 <context>
     <name>KDocTab</name>
     <message>
-        <source>File is uploading...</source>
-        <translation>Файл загружается...</translation>
-    </message>
-    <message>
         <source>Uploading file...</source>
         <translation>Загрузка файла...</translation>
     </message>
 </context>
 <context>
     <name>KDocTabbarEx</name>
+    <message>
+        <source>&amp;More Command...</source>
+        <translation>&amp; Более Команда...</translation>
+    </message>
     <message>
         <source>Add to</source>
         <translation>Добавить в</translation>
@@ -249,6 +249,13 @@
     <message>
         <source>&amp;Hide quick access</source>
         <translation>&amp;Скрыть быстрый доступ</translation>
+    </message>
+</context>
+<context>
+    <name>KDragMenuBar</name>
+    <message>
+        <source>Menu Bar</source>
+        <translation>Строка меню</translation>
     </message>
 </context>
 <context>
@@ -310,6 +317,13 @@
     </message>
 </context>
 <context>
+    <name>KMenuBar</name>
+    <message>
+        <source>Nex&amp;t</source>
+        <translation>Nex &amp; т</translation>
+    </message>
+</context>
+<context>
     <name>KOrientationCtrl</name>
     <message>
         <source>Text </source>
@@ -327,8 +341,8 @@
         <translation>Включен Caps Lock.</translation>
     </message>
     <message>
-        <source>Keep the caps lock open may cause you to input error password.</source>
-        <translation>Включенный Caps Lock приведет к вводу пароля с ошибкой.</translation>
+        <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
+        <translation>Клавиша Caps Lock может привести к вход неверного пароля.</translation>
     </message>
     <message>
         <source>Not allowed.</source>
@@ -337,10 +351,6 @@
     <message>
         <source>You are not allowed to copy from the password field.</source>
         <translation>Вы не можете скопировать из поля ввода пароля.</translation>
-    </message>
-    <message>
-        <source>Keeping the Caps Lock on may cause you to input wrong password.</source>
-        <translation>Клавиша Caps Lock может привести к вход неверного пароля.</translation>
     </message>
 </context>
 <context>
@@ -352,6 +362,10 @@
     <message>
         <source>More commands</source>
         <translation>Дополнительные команды</translation>
+    </message>
+    <message>
+        <source>Quick A&amp;ccess Toolbar</source>
+        <translation>Быстрый и ступа Панель инструментов</translation>
     </message>
     <message>
         <source>&amp;Show quick access</source>
@@ -369,24 +383,20 @@
         <translation>Очистить все незакрытые файлы</translation>
     </message>
     <message>
-        <source>Fixed To The Listing</source>
-        <translation>Фиксированные в список</translation>
-    </message>
-    <message>
-        <source>Unfixed From The Listing</source>
-        <translation>Незафиксированная из списка</translation>
+        <source>Fixed to the Listing</source>
+        <translation>Исправленые в список</translation>
     </message>
     <message>
         <source>Unfixed from the Listing</source>
         <translation>Незафиксированная из списка</translation>
     </message>
-    <message>
-        <source>Fixed to the Listing</source>
-        <translation>Исправленые в список</translation>
-    </message>
 </context>
 <context>
     <name>KSystemMenuCommand</name>
+    <message>
+        <source>Nex&amp;t</source>
+        <translation>Nex &amp; т</translation>
+    </message>
     <message>
         <source>System Menu</source>
         <translation>Системное меню</translation>
@@ -418,7 +428,7 @@
     <name>KUnitRendering</name>
     <message>
         <source>[Device] pt=pt;p in=inch;i cm=cm;c mm=mm;m  [Percentage] %=%  [Character] ch=char  [Degree] degree=degree  [Row] line=line  [Auto] auto=auto  [Multiple] multiple=multiple </source>
-        <translation>[Device] пт = пт;р в = дюйм;я см = см; с мм = мм; м  [Percentage] %=%  [Character] ч = символ  [Degree] степень = степень  [Row] линия = линия  [Auto] авто = авто [Multiple] несколько = несколько </translation>
+        <translation>[Device] пт = пт;р в = дюйм;я см = см; с мм = мм; м [Percentage] %=% [Character] ч = символ [Degree] степень = степень [Row] линия = линия [Auto] авто = авто [Multiple] несколько = несколько</translation>
     </message>
 </context>
 <context>
@@ -461,12 +471,36 @@
 <context>
     <name>QMdiSubWindow</name>
     <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Закрыть</translation>
+    </message>
+    <message>
+        <source>&amp;Move</source>
+        <translation>&amp; Переместить</translation>
+    </message>
+    <message>
+        <source>&amp;Restore</source>
+        <translation>&amp; Restore</translation>
+    </message>
+    <message>
+        <source>&amp;Size</source>
+        <translation>&amp; Размер</translation>
+    </message>
+    <message>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
     <message>
+        <source>Ma&amp;ximize</source>
+        <translation>Ма&amp;ximize</translation>
+    </message>
+    <message>
         <source>Maximize</source>
         <translation>Увеличить</translation>
+    </message>
+    <message>
+        <source>Mi&amp;nimize</source>
+        <translation>Mi&nimize</translation>
     </message>
     <message>
         <source>Minimize</source>
@@ -505,11 +539,23 @@
     </message>
     <message>
         <source>Clear record from list</source>
-        <translation>Удалить запись из списка.</translation>
+        <translation>Удалить запись из списка</translation>
     </message>
     <message>
-        <source>Delete From The Listing</source>
+        <source>Delete from the Listing</source>
         <translation>Удалить из списка</translation>
+    </message>
+    <message>
+        <source>Do not show this message again</source>
+        <translation>Не показывать это сообщение</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show this message again,  Always take this action</source>
+        <translation>Не показывать это сообщение, Всегда выполнять это действие</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>NumLock</source>
@@ -538,10 +584,6 @@
     <message>
         <source>Recent Documents: </source>
         <translation>Последние документы:</translation>
-    </message>
-    <message>
-        <source>Delete from the Listing</source>
-        <translation>Удалить из списка</translation>
     </message>
 </context>
 </TS>
